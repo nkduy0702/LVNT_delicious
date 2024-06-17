@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Madimi+One&family=Niramit:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Protest+Revolution&display=swap");
+
+:root {
+  --fontFamily: "Niramit", sans-serif;
+  --mainColor: #f33838;
+  --bg-section: linear-gradient(to right, #f33838, #fbac3f);
+}
+
+* {
+  font-family: var(--fontFamily) !important;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
